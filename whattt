@@ -2226,7 +2226,7 @@ L_1_[41]["Image"] = L_1_[2]({
 L_1_[41][L_1_[2]({
 	"BackgroundTransparen";
 	"cy"
-})] = 1
+})] = 0
 L_1_[41]["Parent"] = L_1_[87]
 L_1_[82] = Instance["new"]("UICorner")
 L_1_[82]["CornerRadius"] = UDim["new"](.5, 0)
